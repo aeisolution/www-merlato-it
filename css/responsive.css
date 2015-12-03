@@ -7,14 +7,14 @@
 	.navbar-brand img { width: 230px; }
 }
 
-@media (min-width: 341px) {
+@media (max-width: 375px) {
 	.navbar-brand img { width: 280px; }
 }
 
-@media (min-width: 376px) {
+@media (max-width: 500px) {
 	.navbar-brand img { width: 320px; }
 }
 
-@media (min-width: 500px) {
+@media (max-width: 768px) {
 	.navbar-brand img { width: 350px; }
 }
