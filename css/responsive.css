@@ -3,18 +3,22 @@
     width: 970px;
 }
 
-@media (max-width: 340px) {
-	.navbar-brand img { width: 230px; }
-}
-
-@media (max-width: 375px) {
-	.navbar-brand img { width: 280px; }
+@media (max-width: 768px) {
+	.navbar-brand img { width: 350px; }
 }
 
 @media (max-width: 500px) {
 	.navbar-brand img { width: 320px; }
 }
 
-@media (max-width: 768px) {
-	.navbar-brand img { width: 350px; }
+@media (max-width: 375px) {
+	.navbar-brand img { width: 280px; }
 }
+
+@media (max-width: 340px) {
+	.navbar-brand img { width: 230px; }
+}
+
+
+
+
