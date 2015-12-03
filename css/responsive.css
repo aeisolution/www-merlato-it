@@ -1,0 +1,20 @@
+@media (min-width: 992px)
+.container {
+    width: 970px;
+}
+
+@media (max-width: 340px) {
+	.navbar-brand img { width: 230px; }
+}
+
+@media (min-width: 341px) {
+	.navbar-brand img { width: 280px; }
+}
+
+@media (min-width: 376px) {
+	.navbar-brand img { width: 320px; }
+}
+
+@media (min-width: 500px) {
+	.navbar-brand img { width: 350px; }
+}
