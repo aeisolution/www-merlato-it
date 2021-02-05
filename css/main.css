@@ -166,7 +166,7 @@ ul.nostyle i {
   height: auto;
   padding: 22px 15px 21px;
 }
-@media only screen and (min-width: 842px) {
+@media only screen and (min-width: 1200px) {
   #main-menu.navbar-default {
     background: rgba(255, 255, 255, 0.9);
     -webkit-box-shadow: 0 0 3px 0 rgba(0, 0, 0, 0.1);
@@ -540,7 +540,7 @@ ul.nostyle i {
 }
 #work-process {
   padding: 100px 0 50px;
-  background: #20222e url(../images/work-process/bg.jpg) no-repeat 0 0;
+  background: #1b1f3e url(../images/work-process/bg.jpg) no-repeat 0 0;
   background-size: cover;
   color: #fff;
 }
@@ -590,7 +590,7 @@ ul.nostyle i {
 }
 .dark-divider {
   padding: 50px 0 20px;
-  background: #20222e url(../images/work-process/bg.jpg) no-repeat 0 0;
+  background: #1b1f3e url(../images/work-process/bg.jpg) no-repeat 0 0;
   background-size: cover;
   color: #fff;
 }
@@ -803,7 +803,7 @@ ul.nostyle i {
   color: #fff;
 }
 #get-in-touch {
-  padding: 100px 0 50px;
+  padding: 50px 0 40px;
   background-image: -moz-linear-gradient(90deg, #2caab3 0%, #2c8cb3 100%);
   background-image: -webkit-linear-gradient(90deg, #2caab3 0%, #2c8cb3 100%);
   background-image: -ms-linear-gradient(90deg, #2caab3 0%, #2c8cb3 100%);

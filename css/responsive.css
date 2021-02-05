@@ -11,14 +11,30 @@
 	.navbar-brand img { width: 320px; }
 }
 
-@media (max-width: 375px) {
+@media (max-width: 430px) {
+	.navbar-brand { padding: 28px 15px 21px; }
 	.navbar-brand img { width: 280px; }
 }
 
-@media (max-width: 340px) {
+@media (max-width: 385px) {
+	.navbar-brand { padding: 30px 15px 21px; }
+	.navbar-brand img { width: 240px; }
+}
+
+@media (max-width: 345px) {
+	.navbar-brand { padding: 32px 15px 21px; }
 	.navbar-brand img { width: 230px; }
 }
 
 
+.section-areas { text-align: center;	}
 
+@media (max-width: 768px) {
+	#btn_riservata { width: 48%; padding-right: 4px; }
+	#btn_ritiro { width: 48%;  padding-left: 4px;}
+}
 
+@media (max-width: 430px) {
+	#btn_riservata { width: 100%; }
+	#btn_ritiro { width: 100%; margin-top: 10px !important; }
+}
