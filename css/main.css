@@ -166,6 +166,13 @@ ul.nostyle i {
   height: auto;
   padding: 22px 15px 21px;
 }
+.navbar.navbar-default .navbar-brand-square {
+  height: auto;
+  padding: 0px 15px 0px;
+}
+.navbar-brand-square img {
+  height: 87px;
+}
 @media only screen and (min-width: 1200px) {
   #main-menu.navbar-default {
     background: rgba(255, 255, 255, 0.9);
